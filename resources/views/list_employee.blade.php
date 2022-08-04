@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>Menu</title>
+  </head>
+  <body>
+	<h1>社員一覧画面</h1>
+	<h2>一覧です</h2>
+	<ul>
+		<li>社員ID</li>
+		<li>社員名</li>
+	</ul>
+  </body>
+</html>
